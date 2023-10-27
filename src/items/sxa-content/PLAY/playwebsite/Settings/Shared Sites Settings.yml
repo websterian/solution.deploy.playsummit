@@ -1,0 +1,13 @@
+﻿---
+ID: "c7ea95f7-c2b9-4f82-8bc0-3c5b6cfdc4ab"
+Parent: "9ed598e0-fe64-4a42-947b-df3ce6189ace"
+Template: "c14bf746-030f-4e59-8594-395f6d299e61"
+Path: /sitecore/content/PLAY/playwebsite/Settings/Shared Sites Settings
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T133242Z

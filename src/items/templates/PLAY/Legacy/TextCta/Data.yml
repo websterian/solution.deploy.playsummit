@@ -1,0 +1,13 @@
+﻿---
+ID: "b0f9c377-495d-5a7c-a1ec-b1e82953e0bf"
+Parent: "05178a6e-4135-58f1-8755-3bdf8f857872"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/Legacy/TextCta/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T133229Z

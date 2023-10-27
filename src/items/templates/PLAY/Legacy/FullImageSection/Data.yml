@@ -1,0 +1,13 @@
+﻿---
+ID: "917a3ea1-f381-5093-939c-ab46df64323f"
+Parent: "5954b01b-2adb-53d6-85ee-e8408d2cc2a4"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/Legacy/FullImageSection/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T133229Z

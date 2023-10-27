@@ -1,0 +1,13 @@
+﻿---
+ID: "0507f25d-e494-5967-8000-73849de0fcdb"
+Parent: "1f476f1c-822a-5a88-8f7e-2431b77d1b70"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/Legacy/Section/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T133228Z

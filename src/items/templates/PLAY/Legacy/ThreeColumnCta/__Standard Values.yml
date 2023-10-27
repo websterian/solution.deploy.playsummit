@@ -1,0 +1,13 @@
+﻿---
+ID: "dc6543fb-f949-5e5b-b461-2c7ffb16e67b"
+Parent: "7ff7c2d7-f5e1-57f1-a3f3-812418ac08aa"
+Template: "7ff7c2d7-f5e1-57f1-a3f3-812418ac08aa"
+Path: /sitecore/templates/Project/PLAY/Legacy/ThreeColumnCta/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T133240Z

@@ -1,0 +1,13 @@
+﻿---
+ID: "6053403f-2ebd-4546-bc1c-869bbb66c320"
+Parent: "c34e89d5-7f6c-4977-967b-2e5c886c27e0"
+Template: "ab154d3d-1126-4ab4-ac21-8b86e6bd70ea"
+Path: /sitecore/system/Modules/PowerShell/Script Library/SPE/Reporting/Content Reports/Reports/PLAY
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T133221Z

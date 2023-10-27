@@ -1,0 +1,13 @@
+﻿---
+ID: "2d33b72b-991b-49ee-a763-23025a39c6fd"
+Parent: "3e506d21-1b3b-433b-af8e-d8cc1613f620"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/Legacy/Data/Site Configuration/Site Information
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T133230Z

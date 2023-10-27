@@ -1,0 +1,13 @@
+﻿---
+ID: "e7a53b03-6b96-41c8-83ff-01a08cec02e4"
+Parent: "59c72002-f4ef-4972-980d-24122e53589e"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/PLAY/shared
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T133256Z

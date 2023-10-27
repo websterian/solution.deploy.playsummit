@@ -1,0 +1,13 @@
+﻿---
+ID: "e7a0dba2-060b-53f3-81a3-3237baf30b86"
+Parent: "3ee5e476-e843-51f1-a351-d2c3b198475a"
+Template: "3ee5e476-e843-51f1-a351-d2c3b198475a"
+Path: /sitecore/templates/Project/PLAY/Legacy/HeroImage/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T133240Z

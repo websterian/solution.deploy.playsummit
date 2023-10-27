@@ -1,0 +1,17 @@
+﻿---
+ID: "ab4198b5-0ef0-45b0-b9fa-1a48ba2b2cf9"
+Parent: "0bc9237d-12eb-47a5-afed-a65188324358"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/Legacy/CMP Entities/Timeslot/Data
+SharedFields:
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T133234Z
