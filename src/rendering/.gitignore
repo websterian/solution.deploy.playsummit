@@ -32,3 +32,6 @@
 
 # vercel
 .vercel
+
+.open-next
+/aws
